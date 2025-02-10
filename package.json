@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "axios": "^1.7.9",
+    "commander": "^13.1.0"
+  },
+  "name": "@hexlet/code",
+  "type": "module",
+  "description": "[![Actions Status](https://github.com/AutumnQR/fullstack-javascript-project-4/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/AutumnQR/fullstack-javascript-project-4/actions)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@eslint/js": "^9.20.0",
+    "eslint": "^9.20.0",
+    "globals": "^15.14.0",
+    "nock": "^14.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
